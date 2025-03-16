@@ -79,7 +79,8 @@ h1 {
 }
 
 .full-image {
-    margin: 100px 0px 100px 0px;
+    margin-left: 15%;
+    margin-right: 15%
 }
 
 .social {
@@ -111,5 +112,5 @@ footer {
 
 footer{
      display: fixed;
-     width: 70%;
+     width: 85%;
 }
